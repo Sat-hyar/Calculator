@@ -5,4 +5,4 @@ Calculator Project Using HTML, CSS and JAVASCRIPT.
 
 [HTML](https://github.com/Sat-hyar/Calculator/blob/main/index.html)
 CSS
-JAVASCRIPT
+[JAVASCRIPT](https://github.com/Sat-hyar/Calculator/blob/main/script.js)
